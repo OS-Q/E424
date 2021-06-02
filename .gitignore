@@ -5,7 +5,7 @@ __pycache__/
 *.pio/
 *.rst
 # *.md
-README*
+# README*
 LICENSE*
 *.png
 *.jpg
